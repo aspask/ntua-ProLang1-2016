@@ -1,0 +1,10 @@
+input1:	 130
+input2:	 168
+input3:	 168
+input4:	 480
+input5:	 532
+input6:  612
+input7:	 976
+input8:	 1260
+input9:	 1666
+input10: 8916
